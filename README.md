@@ -19,7 +19,7 @@ IT Service Desk is package of multiple services containing
 # Technology Stack 
   - Power Apps Version-23044
   - Power Automate Version-2301.4
-  - Sharepoint 
+  - Sharepoint 2019
  
 
 # Application Frontend Overview 
